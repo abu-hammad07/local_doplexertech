@@ -1,0 +1,248 @@
+[21-Jun-2024 10:46:44 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:46:51 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:47:07 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:47:13 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:48:37 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:49:10 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:49:11 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:49:11 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:49:14 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:51:07 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:51:07 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:51:10 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:52:42 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:54:11 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:54:21 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[21-Jun-2024 10:54:24 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.27. in /home/ki12583379/public_html/vendor/composer/platform_check.php on line 28
+[22-Jun-2024 06:59:54 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 07:30:57 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:21 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:24 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:27 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:29 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:30 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:31 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:35 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:37 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:39 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:41 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:43 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:45 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:48 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:50 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:52 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:54 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:55 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:57 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:50:59 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:01 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:03 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:04 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:06 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:09 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:11 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:13 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:15 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:17 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:18 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:20 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:21 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:23 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:25 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:29 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:32 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:34 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:36 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:38 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:40 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:41 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:43 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:44 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:47 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:50 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:52 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:54 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:51:57 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:52:00 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:52:02 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:52:04 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:52:05 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:52:08 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:52:11 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:52:13 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[22-Jun-2024 13:52:16 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[24-Jun-2024 12:09:19 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[25-Jun-2024 07:57:42 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[26-Jun-2024 07:59:55 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[27-Jun-2024 07:36:24 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[28-Jun-2024 08:40:53 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[29-Jun-2024 08:40:49 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[01-Jul-2024 09:18:58 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[02-Jul-2024 11:06:33 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[03-Jul-2024 01:48:42 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[03-Jul-2024 09:09:50 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[04-Jul-2024 09:37:56 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[05-Jul-2024 01:12:07 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[05-Jul-2024 01:12:25 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[05-Jul-2024 01:12:26 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[05-Jul-2024 01:19:50 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[16-Jul-2024 21:43:50 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[16-Jul-2024 21:43:50 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[16-Jul-2024 21:43:50 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[16-Jul-2024 21:43:50 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[16-Jul-2024 21:43:52 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[16-Jul-2024 21:46:02 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[16-Jul-2024 21:46:02 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[16-Jul-2024 21:46:02 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[16-Jul-2024 21:46:03 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[16-Jul-2024 21:46:04 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[16-Jul-2024 21:46:04 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[17-Jul-2024 06:40:24 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[17-Jul-2024 06:40:24 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[17-Jul-2024 06:40:25 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[17-Jul-2024 06:40:25 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[17-Jul-2024 06:40:25 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[17-Jul-2024 06:40:30 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[26-Jul-2024 17:54:07 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 17:54:07 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 17:57:20 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 17:57:20 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 17:57:58 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 17:57:58 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 17:58:32 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 17:58:32 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 18:05:40 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 18:05:40 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 18:13:58 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 18:13:58 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 18:18:37 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 18:18:37 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 18:20:38 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 18:20:38 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 18:21:22 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 18:21:22 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 18:25:32 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 18:25:32 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 18:26:28 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 18:26:28 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 18:30:17 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 18:30:17 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 18:32:34 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 18:32:34 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 18:34:26 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 18:34:26 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 18:36:25 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 18:36:25 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 18:37:02 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 18:37:02 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 18:40:43 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 18:40:43 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[26-Jul-2024 18:44:24 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[26-Jul-2024 18:44:24 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[27-Jul-2024 12:14:41 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[27-Jul-2024 12:14:41 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[27-Jul-2024 12:14:41 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[27-Jul-2024 12:14:41 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[27-Jul-2024 12:55:36 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[27-Jul-2024 12:55:36 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[27-Jul-2024 12:57:07 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[27-Jul-2024 12:57:07 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[27-Jul-2024 13:11:07 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[27-Jul-2024 13:11:07 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[27-Jul-2024 19:17:11 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[27-Jul-2024 19:17:11 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[27-Jul-2024 21:07:22 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[27-Jul-2024 21:07:22 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[27-Jul-2024 21:14:59 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[27-Jul-2024 21:14:59 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[27-Jul-2024 21:16:42 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[27-Jul-2024 21:16:42 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[27-Jul-2024 21:17:47 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[27-Jul-2024 21:17:47 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[27-Jul-2024 21:18:37 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[27-Jul-2024 21:18:37 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 00:06:44 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 00:06:44 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 00:07:47 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 00:07:47 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 00:50:46 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 00:50:46 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 00:53:12 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 00:53:12 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 00:54:35 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 00:54:35 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 00:56:31 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 00:56:31 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 01:00:15 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 01:00:15 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 01:02:05 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 01:02:05 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 01:11:25 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 01:11:25 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 01:12:53 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 01:12:53 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 01:19:35 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 01:19:35 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 01:21:11 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 01:21:11 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 01:23:30 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 01:23:30 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 01:43:25 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 01:43:25 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 02:04:10 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 02:04:10 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 02:07:55 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 02:07:55 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 02:07:55 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 02:30:25 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 02:30:25 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 02:46:56 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 02:46:56 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[28-Jul-2024 03:40:48 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[28-Jul-2024 03:40:48 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[29-Jul-2024 00:36:42 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[29-Jul-2024 00:36:42 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[29-Jul-2024 01:05:43 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[29-Jul-2024 01:05:43 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[29-Jul-2024 01:07:14 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[29-Jul-2024 01:07:14 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[29-Jul-2024 01:08:46 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[29-Jul-2024 01:08:46 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[29-Jul-2024 01:51:29 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[29-Jul-2024 01:51:29 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[29-Jul-2024 01:53:12 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[29-Jul-2024 01:53:12 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[29-Jul-2024 01:53:58 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[29-Jul-2024 01:53:58 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[29-Jul-2024 14:08:29 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[29-Jul-2024 14:08:29 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[29-Jul-2024 14:25:54 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[29-Jul-2024 14:25:54 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[29-Jul-2024 14:35:46 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[29-Jul-2024 14:35:46 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[29-Jul-2024 15:56:16 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[29-Jul-2024 15:56:16 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[31-Jul-2024 17:15:13 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[31-Jul-2024 17:15:13 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[31-Jul-2024 17:16:51 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[31-Jul-2024 17:16:51 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[31-Jul-2024 17:23:32 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[31-Jul-2024 17:23:32 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[01-Aug-2024 09:44:18 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[01-Aug-2024 09:44:18 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[01-Aug-2024 10:21:56 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[01-Aug-2024 10:21:56 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[01-Aug-2024 14:49:58 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[01-Aug-2024 14:49:58 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[01-Aug-2024 14:51:09 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[01-Aug-2024 14:51:09 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[01-Aug-2024 16:34:20 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[01-Aug-2024 16:34:20 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[01-Aug-2024 16:43:48 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[01-Aug-2024 16:43:48 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[01-Aug-2024 23:31:49 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/ApiResource.php on line 87
+[01-Aug-2024 23:31:49 Asia/Karachi] PHP Deprecated:  Using ${var} in strings is deprecated, use {$var} instead in /home/ki12583379/public_html/public/stripe-php/lib/SingletonApiResource.php on line 28
+[06-Aug-2024 08:48:15 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[06-Aug-2024 08:48:18 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[06-Aug-2024 08:48:18 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10
+[06-Aug-2024 08:49:30 UTC] PHP Deprecated:  urldecode(): Passing null to parameter #1 ($string) of type string is deprecated in /home/ki12583379/public_html/server.php on line 10

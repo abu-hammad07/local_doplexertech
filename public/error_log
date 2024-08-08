@@ -1,0 +1,46 @@
+[22-Jun-2024 16:03:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'ki12583379_admin'@'localhost' (using password: YES) in /home/ki12583379/public_html/public/testconnection.php:8
+Stack trace:
+#0 /home/ki12583379/public_html/public/testconnection.php(8): mysqli->__construct('127.0.0.1', 'ki12583379_admi...', Object(SensitiveParameterValue), 'ki12583379_vide...')
+#1 {main}
+  thrown in /home/ki12583379/public_html/public/testconnection.php on line 8
+[22-Jun-2024 16:04:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/ki12583379/public_html/public/testconnection.php:8
+Stack trace:
+#0 /home/ki12583379/public_html/public/testconnection.php(8): mysqli->__construct('127.0.0.1', 'root', Object(SensitiveParameterValue), 'ki12583379_vide...')
+#1 {main}
+  thrown in /home/ki12583379/public_html/public/testconnection.php on line 8
+[23-Jun-2024 15:17:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/ki12583379/public_html/public/testconnection.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ki12583379/public_html/public/testconnection.php on line 1
+[23-Jun-2024 15:18:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/ki12583379/public_html/public/testconnection.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ki12583379/public_html/public/testconnection.php on line 1
+[23-Jun-2024 15:20:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/ki12583379/public_html/public/testconnection.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ki12583379/public_html/public/testconnection.php on line 1
+[23-Jun-2024 15:21:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/ki12583379/public_html/public/testconnection.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ki12583379/public_html/public/testconnection.php on line 1
+[23-Jun-2024 15:22:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/ki12583379/public_html/public/testconnection.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ki12583379/public_html/public/testconnection.php on line 1
+[23-Jun-2024 15:23:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/ki12583379/public_html/public/testconnection.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ki12583379/public_html/public/testconnection.php on line 1
+[23-Jun-2024 15:25:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/ki12583379/public_html/public/testconnection.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ki12583379/public_html/public/testconnection.php on line 1
+[23-Jun-2024 15:25:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/ki12583379/public_html/public/testconnection.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ki12583379/public_html/public/testconnection.php on line 1
+[23-Jun-2024 15:27:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function php_info() in /home/ki12583379/public_html/public/testconnection.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/ki12583379/public_html/public/testconnection.php on line 1

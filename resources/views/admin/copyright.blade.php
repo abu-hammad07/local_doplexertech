@@ -1,0 +1,1 @@
+<footer class="footer text-right"> {{trans('words.copyright')}} © {{date('Y')}} <a href="https://doplexertech.com" target="_blank">zongflex.tv</a>. {{trans('words.all_rights')}}. </footer>

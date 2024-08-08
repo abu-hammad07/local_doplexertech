@@ -1,0 +1,492 @@
+/* each word before */
+.before-dot::before {
+    content: "\2022";
+    color: red;
+    display: inline-block;
+    width: 1em;
+    margin-right: -.5em;
+}
+
+/* border not circle */
+.border-white-quar {
+    border: 1px solid #C9C9C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #fff;
+    font-family: GothamMedium !important;
+    text-align: center;
+}
+
+.movies-info-description {
+    display: none;
+    overflow-y: auto;
+    margin-bottom: 8px;
+    margin-top: 10px;
+    background: none;
+    width: 70%;
+    border: none;
+    height: auto;
+    max-height: 150px;
+    overflow: hidden;
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}
+
+.movies-info-description-mobile {
+    border-radius: 10px;
+    margin: 10px 15px;
+    padding: 5px;
+}
+
+.movies-info-description-mobile span {
+    text-decoration: underline;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.movies-info-description p {
+    display: block;
+    display: -webkit-box;
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+}
+
+.movies-info-description-mobile p {
+    display: block;
+    display: -webkit-box;
+    max-width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: break-word;
+}
+
+.movies-info-description-mobile p.more {
+    -webkit-line-clamp: 4;
+}
+
+/* ===== Customize the Scroll ======= */
+.custom-scroll-splide__slide {
+    max-height: 300px;
+    /* Set maximum height for the scrollable area */
+    overflow-y: auto;
+    /* Enable vertical scrolling */
+    border: 1px solid #ccc;
+    /* Example padding */
+    background-color: #f8f9fa;
+    /* Example background color */
+}
+
+/* Optional: Customize scrollbar appearance (not fully supported across all browsers) */
+.custom-scroll-splide__slide::-webkit-scrollbar {
+    width: 8px;
+}
+
+.custom-scroll-splide__slide::-webkit-scrollbar-track {
+    background: #f1f1f181;
+}
+
+.custom-scroll-splide__slide::-webkit-scrollbar-thumb {
+    background-color: #db4646;
+    border-radius: 4px;
+}
+
+.custom-scroll-splide__slide::-webkit-scrollbar-thumb:hover {
+    background-color: #161515b2;
+}
+
+/* ===== end : Customize the Scroll ======= */
+
+/*  */
+.movies-info-advisory {
+    margin-bottom: 10px;
+}
+
+/*  */
+#info {
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
+
+#info[_ngcontent-lrh-c165] {
+    background: #333333;
+    color: #fff;
+    padding: 7px 13px;
+    border-radius: 6px;
+    border: none;
+}
+
+/*  */
+
+#moreInfo[_ngcontent-lrh-c165] {
+    width: 23px;
+    display: inline-block;
+    position: relative;
+    left: 0;
+}
+
+/*  */
+@media only screen and (min-width: 768px) and (max-width: 1199px) {
+    .splide-slider-details-area h1 {
+        font-size: 26px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    .splide__slide .splide-slider-details-area .movies-info-header,
+    .splide__slide .splide-slider-details-area .movies-info-advisory,
+    .splide__slide .splide-slider-details-area .movies-info-description,
+    .splide__slide .splide-slider-details-area .movies-info-advisory,
+    .splide__slide .splide-slider-details-area .movies-info-btn-service {
+        display: none !important;
+    }
+
+    .splide__slide .splide-slider-details-area {
+        height: 80% !important;
+        bottom: 80px;
+    }
+
+}
+
+
+/* video buttons */
+
+.splide__slide .controls {
+    position: absolute;
+    bottom: 15px;
+    right: 50px;
+    transform: translateX(-50%);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    opacity: 0.2;
+    transition: opacity 0.4s;
+    z-index: 6;
+}
+
+.splide__slide:hover .controls {
+    opacity: 1;
+}
+
+.splide__slide .controls .fa {
+    font-size: 20px !important;
+}
+
+.splide__slide .volume-control {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100px;
+    /* Adjust width as needed */
+}
+
+.splide__slide .volume-icon {
+    display: inline-block;
+    font-size: 20px;
+    /* Icon size */
+    cursor: pointer;
+    transition: opacity 0.3s ease;
+}
+
+.splide__slide .volume-icon:hover {
+    opacity: 0.7;
+}
+
+.splide__slide #volumeSlider {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100px;
+    /* Adjust width as needed */
+}
+
+/* end-video-buttons */
+
+
+/* begin: footer responsive */
+@media only screen and (max-width: 465px) {
+    .footer-area .footer-tag {
+        flex-direction: column;
+    }
+}
+
+/* end: footer responsive */
+
+/* begin:movies-info-button-group */
+.btn-custom {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.btn-custom-danger {
+    background-color: #FF6506;
+}
+
+.btn-custom-secondary {
+    background-color: #444241;
+}
+
+.btn-description-show {
+    width: auto;
+    margin-left: 10px;
+}
+
+/* end:movies-info-button-group */
+
+/* begin:footer */
+.footer-btns {
+    display: none;
+}
+
+/* end:footer */
+
+
+/* begin:left banner */
+.left-banner {
+    z-index: 20;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    transition: .3s;
+    background-color: #1c1b1b;
+    display: none;
+}
+
+.left-banner.show {
+    display: flex;
+}
+
+.left-banner-lists span {
+    cursor: pointer;
+}
+
+/* end:left banner */
+
+/* video operation buttons */
+.video-operation {
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
+    /* width: auto; */
+    width: auto;
+    height: 50px;
+}
+
+.video-operation i {
+    font-size: 20px;
+}
+
+.loading-icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3em;
+    color: #fff;
+    z-index: 10;
+}
+
+/* begin:watch section */
+.video-show .video-show-player-btn {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    display: none;
+}
+
+.video-show .video-show-player-btn span {
+    text-align: center;
+    font-size: 24px;
+}
+
+.video-show-control {
+    bottom: 0;
+    background-color: black;
+    transition: 0.5s;
+}
+
+.video-show-control .video-show-control-timeline {
+    height: 3px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.video-show .video-show-control-btns {
+    height: 5px;
+    opacity: 0;
+}
+
+.video-show i {
+    cursor: pointer;
+}
+
+.video-show:hover .video-show-control-btns {
+    transition: 1s;
+    height: auto;
+    opacity: 1;
+    padding-top: 1%;
+}
+
+.video-show .video-show-control-btns li [tag-role="video-volume-slider"] {
+    transform-origin: 0 0;
+    width: 75px;
+    left: 20px;
+    top: 0;
+    cursor: pointer;
+    display: none;
+}
+
+
+.video-show .video-show-control-btns li[tag-role="video-volume-control"]:hover [tag-role="video-volume-slider"] {
+    display: block;
+}
+
+.video-show .video-show-control-btns li[tag-role="video-volume-control"] {
+    gap: 3px;
+}
+
+.video-show-control .video-control-timeline-progress {
+    background-color: rgb(53 42 42);
+    left: 0;
+    /* width: 50%; */
+    width: 0;
+}
+
+.video-show-control .video-control-timeline-endpoint {
+    background-color: #FF6506;
+    /* left: 50%; */
+    left: 0;
+    border-radius: 50%;
+    height: 10px;
+    width: 10px;
+    top: -3px;
+
+}
+
+.video-show-control .video-control-btns-middle h3 {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+/* end:watch section */
+
+/* begin:customize the video tag */
+
+input[type="range"] {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 8px;
+    border-radius: 5px;
+    background: transparent;
+    /* Background set to transparent to use custom styles */
+    outline: none;
+    padding: 0;
+    /* margin-top: 25%; */
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+    height: 8px;
+    background: linear-gradient(to right, #FF6506 0%, #FF6506 var(--value, 0%), #d3d3d3 var(--value, 0%), #d3d3d3 100%);
+    border-radius: 5px;
+    /* background-color: #FF6506; */
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 13px;
+    height: 13px;
+    background: rgb(255, 255, 255);
+    cursor: pointer;
+    border-radius: 50%;
+    margin-top: -3% !important;
+    /* Adjust thumb position */
+}
+
+input[type="range"]::-moz-range-track {
+    height: 8px;
+    background: #FF6506;
+    width: var(--value);
+    border-radius: 5px;
+}
+
+input[type="range"]::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #FF6506;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+input[type="range"]::-ms-track {
+    width: 100%;
+    height: 8px;
+    background: transparent;
+    /* Override to show custom track */
+    border-color: transparent;
+    color: transparent;
+}
+
+input[type="range"]::-ms-fill-lower {
+    background: #FF6506;
+    border-radius: 5px;
+}
+
+input[type="range"]::-ms-fill-upper {
+    background: #d3d3d3;
+    border-radius: 5px;
+}
+
+input[type="range"]::-ms-thumb {
+    width: 25px;
+    height: 25px;
+    background: #FF6506;
+    cursor: pointer;
+    border-radius: 50%;
+    margin-top: 0;
+    /* IE adjustment */
+}
+
+input[type="range"]:hover {
+    display: block;
+}
+
+/* begin:customize the video tag */
+
+.tv-season-related-block .video-img img {
+    width: 100%;
+    object-fit: cover;
+}
